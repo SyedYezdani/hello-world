@@ -1,2 +1,3 @@
 # hello-world
-This is a basic starting to make a new respiratory file.
+Hello everyone,
+I am Syed, this is a basic starting training I am doing to make a new respiratory file.
